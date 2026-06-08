@@ -10,8 +10,6 @@ This project completely automates that workflow. The **Regulatory Element Analyz
 4. Analyzes the sequences for rolling GC% content, CpG density, and custom mammalian binding motifs.
 5. Outputs a summary report and publication-ready density plots.
 
-## Acknowledgments
-This project was developed as the final capstone project for the [Weizmann Institute of Science Python Course](https://github.com/Code-Maven/wis-python-course-2026-03). Special thanks to the course instructor, Gabor Szabo and for the kind TAs Liron and Hadar.
 
 ## Input and Output
 **Input:**
@@ -22,6 +20,9 @@ This project was developed as the final capstone project for the [Weizmann Insti
 * `features_summary.csv`: A clean table of all regulatory features found in the region, their exact coordinates, length, and motif hit counts.
 * `sequence_data.fasta`: The actual DNA sequences of the identified elements.
 * `plots/`: A folder containing `.png` graphs plotting the GC% and CpG density across the length of the top 5 longest regulatory elements.
+
+## Acknowledgments
+This project was developed as the final capstone project for the [Weizmann Institute of Science Python Course](https://github.com/Code-Maven/wis-python-course-2026-03). Special thanks to the course instructor, Gabor Szabo and for the kind TAs Liron and Hadar.
 
 ## Technicalities
 
