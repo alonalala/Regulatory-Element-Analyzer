@@ -10,6 +10,9 @@ This project completely automates that workflow. The **Regulatory Element Analyz
 4. Analyzes the sequences for rolling GC% content, CpG density, and custom mammalian binding motifs.
 5. Outputs a summary report and publication-ready density plots.
 
+## Acknowledgments
+This project was developed as the final capstone project for the [Weizmann Institute of Science Python Course](https://github.com/Code-Maven/wis-python-course-2026-03). Special thanks to the course instructor, Gabor Szabo and for the kind TAs Liron and Hadar.
+
 ## Input and Output
 **Input:**
 * A genomic region (Species, Chromosome, Start, End) provided via command-line arguments.
@@ -32,8 +35,3 @@ Clone this repository and install the required 3rd-party libraries using `pip`:
 git clone [https://github.com/](https://github.com/)[Your-Username]/Regulatory-Element-Analyzer.git
 cd Regulatory-Element-Analyzer
 pip install -r requirements.txt
-
----
-
-## Acknowledgments
-This project was developed as the final capstone project for the [Weizmann Institute of Science Python Course](https://github.com/Code-Maven/wis-python-course-2026-03). Special thanks to the course instructor, Gabor Szabo and for the kind TAs Liron and Hadar.
