@@ -32,3 +32,8 @@ Clone this repository and install the required 3rd-party libraries using `pip`:
 git clone [https://github.com/](https://github.com/)[Your-Username]/Regulatory-Element-Analyzer.git
 cd Regulatory-Element-Analyzer
 pip install -r requirements.txt
+
+---
+
+## Acknowledgments
+This project was developed as the final capstone project for the [Weizmann Institute of Science Python Course](https://github.com/Code-Maven/wis-python-course-2026-03). Special thanks to the course instructor, Gabor Szabo and for the kind TAs Liron and Hadar.
